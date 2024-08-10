@@ -1,15 +1,15 @@
 // this stylw is used for glass moriphism in loginModal
-<style>
-/* #loginModal{
-    backdrop-filter:blur(10px);
-}
+// <style>
+// #loginModal{
+//     backdrop-filter:blur(10px);
+// }
 
 // this style is used for glassmoriphism in register modal
- #registerModal{
-     backdrop-filter:blur(10px);
- }   
+//  #registerModal{
+//      backdrop-filter:blur(10px);
+//  }   
     
-</style> */
+// </style>
 
 <header>
 <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-2 shadow-sm sticky-top">
