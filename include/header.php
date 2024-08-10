@@ -3,6 +3,11 @@
 /* #loginModal{
     backdrop-filter:blur(10px);
 }
+
+// this style is used for glassmoriphism in register modal
+ #registerModal{
+     backdrop-filter:blur(10px);
+ }   
     
 </style> */
 
