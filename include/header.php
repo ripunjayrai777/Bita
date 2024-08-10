@@ -1,3 +1,11 @@
+// this stylw is used for glass moriphism in loginModal
+<style>
+/* #loginModal{
+    backdrop-filter:blur(10px);
+}
+    
+</style> */
+
 <header>
 <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-2 shadow-sm sticky-top">
     <div class="container-fluid">
